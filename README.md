@@ -2,6 +2,7 @@
 ## Member List:
 * Riley Nicholls
 * Yixuan Zhu
+* Jacky Chen
 * Kavya Thangella
 * Aeriel Cruz
 * wa
