@@ -3,3 +3,4 @@
 * Riley Nicholls
 * Yixuan Zhu
 * Kavya Thangella
+* Aeriel Cruz
