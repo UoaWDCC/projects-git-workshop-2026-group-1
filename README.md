@@ -2,8 +2,6 @@
 ## Member List:
 * Riley Nicholls
 * Yixuan Zhu
-<<<<<<< HEAD
 * Jacky Chen
-=======
->>>>>>> df5e81b9960805bcefa59edbbb2d07fd658cfbe8
-
+* Kavya Thangella
+* Aeriel Cruz
