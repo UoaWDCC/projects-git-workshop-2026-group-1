@@ -1,4 +1,5 @@
 # Group 1 - Projects Git Workshop 2026
 ## Member List:
-* Yixuan
-* Jacky
+* Yixuan Zhu
+* Jacky Chen
+
